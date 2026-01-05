@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhotoRotateLeft90</string>
+    <string name="select_image">选择图片</string>
+    <string name="rotate_left">向左旋转90度</string>
+    <string name="save_image">另存为</string>
+</resources>

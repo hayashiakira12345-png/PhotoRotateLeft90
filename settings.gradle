@@ -1,0 +1,2 @@
+rootProject.name = "PhotoRotateLeft90"
+include ':app'
